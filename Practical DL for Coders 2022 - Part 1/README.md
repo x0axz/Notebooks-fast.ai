@@ -7,3 +7,4 @@
 3. [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
 4. [How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work)
 5. [First Steps: Road to the Top, Part 1](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
+6. [Multi-target: Road to the Top, Part 4](https://www.kaggle.com/code/jhoward/multi-target-road-to-the-top-part-4)
